@@ -2,8 +2,6 @@
 
 > A little collection of worlds, colors, and places to escape to.
 
-**44 wallpapers · collected for the desktop**
-
 ---
 
 ## The wall
@@ -24,7 +22,7 @@
 | <img src="wallhaven-d8dmrg.jpg" alt="wallhaven-d8dmrg.jpg" width="480" /> | <img src="wallhaven-jexovp.png" alt="wallhaven-jexovp.png" width="480" /> |
 | <img src="wallhaven-ly2762.jpg" alt="wallhaven-ly2762.jpg" width="480" /> | <img src="wallhaven-lyd2d2.png" alt="wallhaven-lyd2d2.png" width="480" /> |
 | <img src="wallhaven-lyde92.jpg" alt="wallhaven-lyde92.jpg" width="480" /> | <img src="wallhaven-lydzk2.png" alt="wallhaven-lydzk2.png" width="480" /> |
-| <img src="wallhaven-lyjvl2.jpg" alt="wallhaven-lyjvl2.jpg" width="480" /> | <img src="wallhaven-og5v3m.png" alt="wallhaven-og5v3m.png" width="480" /> |
+| <img src="wallhaven-lyjvl.jpg" alt="wallhaven-lyjvl.jpg" width="480" /> | <img src="wallhaven-og5v3m.png" alt="wallhaven-og5v3m.png" width="480" /> |
 | <img src="wallhaven-oggvw9.jpg" alt="wallhaven-oggvw9.jpg" width="480" /> | <img src="wallhaven-pojl63.png" alt="wallhaven-pojl63.png" width="480" /> |
 | <img src="wallhaven-rqq3gm.png" alt="wallhaven-rqq3gm.png" width="480" /> | <img src="wallhaven-rqqy5m.png" alt="wallhaven-rqqy5m.png" width="480" /> |
 | <img src="wallhaven-rqrqpm.png" alt="wallhaven-rqrqpm.png" width="480" /> | <img src="wallhaven-vpel8p.jpg" alt="wallhaven-vpel8p.jpg" width="480" /> |
