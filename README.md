@@ -1,7 +1,4 @@
 # My Wallpaper Collection
-
-> A little collection of worlds, colors, and places to escape to.
-
 ---
 
 ## The wall
